@@ -118,13 +118,39 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 242px;
+    min-height: 287px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 271px;
   }
 
   .u-section-1 .u-image-1 {
     height: 340px;
+    margin-top: -52px;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 188px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding: 16px 5px 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    width: auto;
+    margin-top: 0;
   }
 
   .u-section-1 .u-text-2 {
@@ -280,6 +306,39 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1069px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 120px;
+    margin-top: 0;
+  }
+
+  .u-section-2 .u-list-1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 951px;
+    grid-gap: 10px 10px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-bottom: 0;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-bottom: 0;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-bottom: 0;
+  }
 } .u-section-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/ecbbac459a08afd82309a1c5b3bdd2d8c486a5bbf3f968c142b5735924bc9f2d16b0ed4cde707554498b1a0b42bfcbf12c270415f7c1897dc33833_1280.png");
   background-position: 50% 50%;
@@ -396,11 +455,16 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 445px;
+    min-height: 493px;
+  }
+
+  .u-section-3 .u-icon-1 {
+    margin-top: 41px;
   }
 
   .u-section-3 .u-text-1 {
     width: 340px;
+    margin-top: 34px;
   }
 
   .u-section-3 .u-line-1 {
@@ -409,5 +473,9 @@
 
   .u-section-3 .u-text-2 {
     width: 340px;
+  }
+
+  .u-section-3 .u-social-icons-1 {
+    margin-top: -4px;
   }
 }
