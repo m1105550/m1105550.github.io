@@ -89,13 +89,13 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 1830px;
+  min-height: 2530px;
 }
 
 .u-section-2 .u-list-1 {
   grid-template-rows: auto;
   margin-top: 60px;
-  margin-bottom: 60px;
+  margin-bottom: 0;
 }
 
 .u-section-2 .u-repeater-1 {
