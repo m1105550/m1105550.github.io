@@ -33,7 +33,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 83px 0 0 auto;
+  margin: 83px -1px 0 auto;
 }
 
 .u-section-1-1 .u-group-1 {
@@ -125,7 +125,7 @@
     font-size: 2.25rem;
   }
 } .u-section-2 {
-  background-image: linear-gradient(#d6b89e, #fff9f3);
+  background-image: linear-gradient(#d1b9a1, #fef9f4);
 }
 
 .u-section-2 .u-sheet-1 {
