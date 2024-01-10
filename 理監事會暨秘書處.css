@@ -316,16 +316,26 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1754px;
+  }
+
   .u-section-2 .u-text-1 {
-    margin-left: 134px;
+    width: auto;
+    margin-top: 59px;
+    margin-left: auto;
   }
 
   .u-section-2 .u-text-2 {
-    width: 340px;
+    width: auto;
+    margin-top: 50px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-2 .u-table-1 {
     width: 340px;
+    margin-top: 24px;
   }
 
   .u-section-2 .u-text-3 {
@@ -393,7 +403,10 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-text-1 {
-    width: 340px;
+    width: auto;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-3 .u-table-1 {
